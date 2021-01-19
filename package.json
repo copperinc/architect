@@ -28,7 +28,7 @@
   "author": "Brian LeRoux <b@brian.io>",
   "license": "Apache-2.0",
   "dependencies": {
-    "@architect/create": "github:copperinc/create#plugins",
+    "@architect/create": "github:copperinc/create#931af01",
     "@architect/deploy": "2.3.3",
     "@architect/destroy": "1.0.4",
     "@architect/env": "1.2.0",
