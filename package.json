@@ -32,7 +32,7 @@
     "@architect/deploy": "2.3.3",
     "@architect/destroy": "1.0.4",
     "@architect/env": "1.2.0",
-    "@architect/hydrate": "github:copperinc/hydrate#f3db75f",
+    "@architect/hydrate": "github:copperinc/hydrate#18c4970",
     "@architect/logs": "2.0.1",
     "@architect/package": "6.0.4",
     "@architect/sandbox": "3.3.5",
