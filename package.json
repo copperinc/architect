@@ -35,7 +35,7 @@
     "@architect/hydrate": "github:copperinc/hydrate#18c4970",
     "@architect/logs": "github:copperinc/logs#5e500fc",
     "@architect/package": "6.0.4",
-    "@architect/sandbox": "3.3.5",
+    "@architect/sandbox": "github:copperinc/sandbox#5cfefc4",
     "aws-sdk": "2.712.0",
     "chalk": "4.1.0",
     "update-notifier": "5.0.1"
