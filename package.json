@@ -33,7 +33,7 @@
     "@architect/destroy": "1.0.4",
     "@architect/env": "1.2.0",
     "@architect/hydrate": "github:copperinc/hydrate#18c4970",
-    "@architect/logs": "github:copperinc/logs#5e500fc]",
+    "@architect/logs": "github:copperinc/logs#5e500fc",
     "@architect/package": "6.0.4",
     "@architect/sandbox": "3.3.5",
     "aws-sdk": "2.712.0",
