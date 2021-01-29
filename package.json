@@ -29,7 +29,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@architect/create": "github:copperinc/create#931af01",
-    "@architect/deploy": "github:architect/deploy#no-hydrate-flag",
+    "@architect/deploy": "2.4.0",
     "@architect/destroy": "1.0.4",
     "@architect/env": "1.2.0",
     "@architect/hydrate": "github:copperinc/hydrate#5ac2757",
